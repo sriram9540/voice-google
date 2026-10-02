@@ -1,0 +1,6 @@
+{
+  "name": "Vocalis Desktop Voice Studio",
+  "description": "Production-grade, model-agnostic desktop voice dictation engine with context awareness, real-time formatting, and pluggable AI providers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
